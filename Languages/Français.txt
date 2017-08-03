@@ -6,29 +6,29 @@ Chargement...
 Quitter
 Mode construction 
 Jour
-Hôtel Fermer
-Hôtel ouver
-Client et Chambres
-Client
-chambres 
-Jours de volonté
+Hôtel Fermé
+Hôtel ouvert
+Clients et Chambres
+Clients
+chambre 
+Restera
 jours
-Va donner
-Le Client est trés heureux
+Donnera
+Le Client est très heureux
 Le Client est un peu en colèe
-Le Client est en colèe
-Le Client est trés en colère
+Le Client est en colère
+Le Client est très en colère
 Nouvelle chambre
 Chambre
-pas de région
-Créer une région
+pas de zone
+Créer une zone
 Annuler
-Effacer une région
+Effacer une zone
 objects
 nuit
 Mur
 Porte
-Porte de chambres
+Porte avec étiquette
 Porte vitrée
 Fenêtre
 Mur par défaut
@@ -43,19 +43,19 @@ Herbe
 Bois
 Bois2
 Marbre
-Place de ciment
-Carrelage
+Tuile de ciment
+Tuile
 Pierre
 Carrelage de sol
-Tapi bleu
-Tapi rouge
-Tapi vert
-Tapi gris
-Benne
-Planche a repasser
+Tapis bleu
+Tapis rouge
+Tapis vert
+Tapis gris
+Benne à ordures
+Planche à repasser
 Accueil
-Panier a linge
-Meuble a linge
+Panier à linge
+Meuble à linge
 Canapé
 Stockage de boissons
 Stockage d'aliments
@@ -67,20 +67,20 @@ Lave-vaisselle
 Congélateur
 Bar restaurant
 Grande table
-Petit table
+Petite table
 Lit
 Mini congélateur
 Table de nuit
-Toilette
+Toilettes
 Serviette
 Douche
 Evier
 Garde-robe
-Benc
+Banc
 Clôture
 Clôture d'angle
 Poubelle à ordures
-Lumiére extérieure
+Lumière extérieure
 Arbre
 Lumière
 Lumière de toit
@@ -89,73 +89,73 @@ Citrouille d'Halloween
 Lumière de Noël
 Arbre de Noël
 Cadeaux de Noël
-Certificatd'hôtel
-Peiture
+Certificat d'hôtel
+Peinture
 Corbeille à papier
-Chanbre
+Chanbres
 Travailleurs payés
 Client
 gauche
 pas de lit
-pas de toilette
+pas de toilettes
 pas de douche
 pas de nourriture
 pas de tables
-pas de boisson
-pas de bacs
+pas de boissons
+pas de poubelles
 Pas de chambres disponibles
 Sauvegarde
-Mur de carrelage
+Mur en carrelage
 Mur vert
 Travailleurs et fournitures
 Ouvriers
 Provisions
 Embaucher un réceptionniste
-joure
+jour
 Liste
-réceptionniste
+réceptionnistes
 Embaucher un transporteur
-transporteur
+transporteurs
 Embaucher un cuisinier
-cuisinier
+cuisiniers
 Embaucher un nettoyeur
-nettoyeur
+nettoyeurs
 niveau
-Arrière
-Feu
+Retour
+Licencier
 Niveau
 Promouvoir
 Acheter une boîte à nourriture
-Acheter boîte à boissons
+Acheter une boîte à boissons
 Approvisionnement en boissons totales
 Approvisionnement en nourriture totales
 Options
-Paramétres
+Paramètres
 Contrôles
 Crédits
 Quitter le jeu
 MUSIQUE
 SONS
-Icône de l'argent
+Icône d'argent
 Enregister
 Langage
-Déplacer la caméra: W/A/S/D and Z/Q/S/D
-Tourner la caméra: Q/E and A/E
+Déplacer la caméra: W/A/S/D ou Z/Q/S/D
+Tourner la caméra: Q/E et A/E
 Faire pivoter l'objet: R
-Save game: CTRL + S
-Cancel/back: ESC
-Open/close tutorial: T
-Change speed: 1/2/3/Space
+Enregistrer la partie: CTRL + S
+Retour: ESC
+Ouvrir/fermer le tutoriel: T
+Changer la vitesse: 1/2/3/Space
 Appuyez sur Maj lorsque vous supprimez les murs pour enlever plusieurs parois d'une rangée
 Créé par Avr Games
 Jeu programmé par David Gómez
 Musique et sons par Evan Boyerman
-L'art du jeu de Brenda Mendez, Thomas Jungclaus et Emil Eldstål
+L'esthétique du jeu par Brenda Mendez, Thomas Jungclaus et Emil Eldstål
 Produit par Juani Dorta 	
-Chanson de mode de construction par WNDIGO 
+Chanson en mode de construction par WNDIGO 
 ÊTES-VOUS SURE?
 Les progrès non enregistrés seront perdus
-Laisser
+Quitter
 Objectifs
 Homme d'affaire
 Objectif 2
@@ -166,9 +166,9 @@ Objectif 6
 Objectif 7
 Objectif 8
 Objectif 9
-Achevée
+Achevé
 Objectif terminé
-Hire at least
+Déjà engagé
 ouvriers
 Obtenir
 client
@@ -190,31 +190,31 @@ Supprimer les murs
 Supprimer les objets
 Déplacer des objets
 C'est un mur. Ouais. Impressionnant. :D
-Il s'ouvre et se ferme ... Tout comme une vraie porte! 
-Une porte avec une étiquette de pièce sur elle
+Elle s'ouvre et se ferme ... Tout comme une vraie porte! 
+Une porte avec une étiquette dessus
 Hou la la! Vous pouvez le voir sans l'ouvrir
-Laissez vos client voir l'extérieur ... de l'intérieur!
-Un fond d'écran
-Un fond d'écran
-Un fond d'écran
-Un fond d'écran
-Un fond d'écran
-Un fond d'écran
-Un fond d'écran
-Un fond d'écran
+Laissez vos clients voir l'extérieur ... de l'intérieur!
+Un papier peint
+Un papier peint
+Un papier peint
+Un papier peint
+Un papier peint
+Un papier peint
+Un papier peint
+Un papier peint
 Mur par défaut 
-Un bon étage pour la réception ou le restaurant
+Un bon sol pour la réception ou le restaurant
 Un autre plancher en bois
 Le meilleur des meilleurs, le roi des planchers
 Un sol dur pour résister aux boîtes les plus lourdes
 Un plancher bon marché pour la salle de bain!
-Pierres parfaitement placées pour guider les invités à l'extérieur
+Pierres parfaitement placées pour guider les invités vers l'extérieur
 Sol brillant et propre!
-Vous pouvez descendre pieds nus! Parfait pour les chambres
-Vous pouvez descendre pieds nus! Parfait pour les chambres
-Vous pouvez descendre pieds nus! Parfait pour les chambres
-Vous pouvez descendre pieds nus! Parfait pour les chambres
-Parquet par défaut. Ne vous attendez à rien grandir ici
+Vous pouvez y marcher pieds nus! Parfait pour les chambres
+Vous pouvez y marcher pieds nus! Parfait pour les chambres
+Vous pouvez y marcher pieds nus! Parfait pour les chambres
+Vous pouvez y marcher pieds nus! Parfait pour les chambres
+Sol par défaut. Rien ne va pousser ici
 Pour un joli jardin. Cela n'attire pas les insectes!
 Vos nettoyeurs en auront besoin pour vider les bacs!
 Pour repasser les draps lavés
@@ -222,10 +222,10 @@ Chaque réceptionniste a besoin d'une réception pour assister à un invité
 Pour garder les draps sales avant le lavage
 Il est livré avec 10 linge pour garder les lits propres!
 Un canapé confortable pour se reposer après une dure journée
-Pour ranger les boîtes boisson
-Pour ranger les boîtes alimentaires
+Pour ranger les commandes de boissons
+Pour ranger les commandes alimentaires
 Pour garder vos client hydratés! Il peut contenir jusqu'à 30 boissons
-Laver jusqu'à 10 linge en même temps! C'est bon =)
+Lavez jusqu'à 10 linge en même temps! C'est bon =)
 Une poubelle pour la cuisine. Les cuisiniers vous remercieront
 Un par cuisinier. La plus haute qualité pour un hôtel de luxe
 Les cuisiniers en auront besoin si vous voulez garder les tables claires
@@ -275,19 +275,19 @@ Prêt à travailler
 Le mode (travailleur) n'est pas détecté. Veuillez le signaler
 Réceptionniste occupée
 Départ de l'hôtel
-À la recherche de fournitures pour boissons mini frigo
-À la recherche de fournitures alimentaires
-À la recherche de fournitures pour boissons pour distributeurs automatiques
-A la recherche d'un boite alimentaire
-À la recherche d'une boîte à boissons
-Porter une boîte à provisions
-Porter une boîte à boissons
-Ramener des boissons à un mini réfrigérateur
-Faire circuler des boissons dans un distributeur automatique
-Ramener des aliments à un congélateur
-À la recherche de nourriture
-Aller nettoyer la vaisselle
-Aller cuisiner
+Va chercher les boissons pour mini frigo
+Va chercher les fournitures alimentaires
+À la recherche de boissons pour distributeurs automatiques
+Va chercher la commande de nourriture
+Va chercher la commande pour boissons
+Porte une boîte à provisions
+Porte une boîte à boissons
+Amène des boissons à un mini réfrigérateur
+Amène des boissons au distributeur automatique
+Amène des aliments à un congélateur
+Cherche la nourriture
+Va nettoyer la vaisselle
+Va cuisiner
 Cuisine
 A la nourriture
 Va au lave-vaisselle
@@ -302,18 +302,18 @@ Va laver les draps sales
 Lavage des draps sales
 Lavage des draps sales
 Va à la benne à ordures
-Nettoyage de la marchandise
-Remaining food
-Remaining dishes
-Remaining drinks
-Sheets
+Nettoyage des déchets
+Nourriture restante
+Vaisselle restante
+Boissons restantes
+Draps
 This object belongs to room
-Cans
+Canettes
 Clone
-Will cost
-Food box
-Drinks box
-Welcome to the Hotel Tycoon tutorial! You can go to Options -> Controls to see the list of all the controls of the game. To close the tutorial, just press T or Escape. In this tutorial you'll learn how to set up your hotel to make it run and start earning money. If this tutorial doesn't answer all your questions, you can go to our Itch.io community (https://davidgoru.itch.io/hotel-tycoon/community) and ask anything you want to know.
+Coûtera
+Fourniture de nourritures
+Fourniture de boissons
+Bienvenue sur le tutoriel d'Hotel Tycoon! Vous pouvez aller dans les Options -> Contrôles pour voir la liste de tous les contrôles du jeu. Pour fermer le tutoriel, appuyez sur T ou Echap. Dans ce tutoriel vous apprendrez à gérer un hotel pour qu'il fonctionne bien et ainsi commencer à gagner de l'argent. Si le tutoriel ne répond pas à vos questions, vous pouvez consulter notre forum Itch.io (https://davidgoru.itch.io/hotel-tycoon/community) et y poser vos questions.
 So, you want to make an awesome hotel, right? Then, let's start! The first thing you'll need is a reception desk (you'll find it on the Build Mode). It can't be placed above dirt, so first of all build some floor (and walls!). Once you have the structure, select the Reception and place it. You can move it or delete it once is placed. Deleting an object will give you some money back. To start the hotel you won't need more than one reception.
 With the reception, you should build some Sofas and a Vending Machine. Workers without work will go to rest to the sofas, and placing a Vending Machine will let your guests get drinks. Now that you have the reception area, you should start building some rooms, so, click "Next"!
 At the beginning you'll get a few guests per day, so with 3-4 rooms you should be able to run the hotel for some days. To build rooms, just do the same as the reception. To get started, just put a toilet, a shower and a bed. Guests will need drinks (if there isn't a Vending Machine, place Mini fridges in all the rooms), food, a bed, a toilet and a shower. If they can't find these things, they'll leave. You can put a door with label to show which room it is. Be careful, you can only have one guest per room, so just put one bed per room.
